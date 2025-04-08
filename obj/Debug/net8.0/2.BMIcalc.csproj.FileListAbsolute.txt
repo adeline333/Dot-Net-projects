@@ -1,0 +1,14 @@
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\bin\Debug\net8.0\2.BMIcalc.exe
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\bin\Debug\net8.0\2.BMIcalc.deps.json
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\bin\Debug\net8.0\2.BMIcalc.runtimeconfig.json
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\bin\Debug\net8.0\2.BMIcalc.dll
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\bin\Debug\net8.0\2.BMIcalc.pdb
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.AssemblyInfoInputs.cache
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.AssemblyInfo.cs
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.csproj.CoreCompileInputs.cache
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.dll
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\refint\2.BMIcalc.dll
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.pdb
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\2.BMIcalc.genruntimeconfig.cache
+C:\Users\adeli\source\repos\2.BMIcalc\2.BMIcalc\obj\Debug\net8.0\ref\2.BMIcalc.dll
