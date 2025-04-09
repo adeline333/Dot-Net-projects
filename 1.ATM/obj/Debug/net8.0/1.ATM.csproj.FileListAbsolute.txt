@@ -1,0 +1,14 @@
+C:\Users\adeli\source\repos\1.ATM\1.ATM\bin\Debug\net8.0\1.ATM.exe
+C:\Users\adeli\source\repos\1.ATM\1.ATM\bin\Debug\net8.0\1.ATM.deps.json
+C:\Users\adeli\source\repos\1.ATM\1.ATM\bin\Debug\net8.0\1.ATM.runtimeconfig.json
+C:\Users\adeli\source\repos\1.ATM\1.ATM\bin\Debug\net8.0\1.ATM.dll
+C:\Users\adeli\source\repos\1.ATM\1.ATM\bin\Debug\net8.0\1.ATM.pdb
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.AssemblyInfoInputs.cache
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.AssemblyInfo.cs
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.csproj.CoreCompileInputs.cache
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.dll
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\refint\1.ATM.dll
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.pdb
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\1.ATM.genruntimeconfig.cache
+C:\Users\adeli\source\repos\1.ATM\1.ATM\obj\Debug\net8.0\ref\1.ATM.dll
