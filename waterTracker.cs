@@ -24,4 +24,30 @@ class WaterIntakeTracker
             waterGoal += 1; // Add 1 liter if very active
         }
 
+        
+        Console.WriteLine($"Your daily water intake goal is {waterGoal:F2} liters."); //water intake rounded to 2 decimal points
+
+        double totalWaterDrunk = 0;
+
+        // Track water intake throughout the day
+        while (totalWaterDrunk < waterGoal)
+        {
+            Console.Write("Enter the amount of water you've drunk today (in liters): ");
+            double waterDrunk = double.Parse(Console.ReadLine());
+            totalWaterDrunk += waterDrunk;
+
+            // Check if goal has been met
+            if (totalWaterDrunk >= waterGoal)
+            {
+                Console.WriteLine("Congratulations! You've met your daily water intake goal.");
+                break;
+            }
+            else
+            {
+                Console.WriteLine($"You've drunk {totalWaterDrunk:F2} liters. Keep going!");
+            }
+        }
+
+        // Display final message
+        Console.WriteLine($"You drank {totalWaterDrunk:F2} liters of water today. Keep up the good work!");
     }}
